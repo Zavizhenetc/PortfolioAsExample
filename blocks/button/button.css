@@ -1,5 +1,4 @@
-@import url(../_footer/button_footer.css);
-
+@import url('./_footer/button_footer.css');
 .button {
     margin: 0;
     margin-top: 24px;
@@ -17,13 +16,11 @@
 
 @media screen and (max-width: 451px) {
     .button {
-
         margin-top: 45px;
         font-family: Roboto;
         font-style: normal;
         font-weight: bold;
         font-size: 10px;
         line-height: 12px;
-
     }
 }
