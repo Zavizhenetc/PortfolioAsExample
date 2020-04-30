@@ -16,12 +16,12 @@
 @import url(../blocks/contacts-data/contacts-data.css);
 @import url(../blocks/contacts-block/contacts-block.css);
 @import url(../blocks/contacts-social/contacts-social.css);
-
 html {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
+
 *,
 *::before,
 *::after {
-  box-sizing: inherit;
+    box-sizing: inherit;
 }
