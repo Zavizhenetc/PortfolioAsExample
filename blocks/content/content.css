@@ -21,9 +21,7 @@
     }
 }
 
-@media screen and (max-width:451px) {
-    .content {
-        padding-bottom: 68px;
-        padding-top: 45px;
-    }
+.content {
+    padding-bottom: 68px;
+    padding-top: 45px;
 }
